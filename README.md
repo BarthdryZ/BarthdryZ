@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BarthdryZ
 - 👀 I’m interested in block programming languages and games.
-- 🌱 I’m currently learning how to make extension for block programming language
+- 🌱 Minetest Modder
 
 <!---
 BarthdryZ/BarthdryZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
