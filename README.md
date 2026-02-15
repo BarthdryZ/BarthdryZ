@@ -1,4 +1,4 @@
-- 👋 At 2026, I no longer use this account. Please check @barathkumarbasker
+- 👋 At 2026, I no longer use this account. Please check [@barathkumarbasker](https://github.com/barathkumarbasker)
 - 👋 Hi, I’m @BarthdryZ
 - 👀 I’m interested in block programming languages and games.
 - 🌱 Minetest Modder
